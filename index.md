@@ -57,7 +57,9 @@ We can use *-l* options to *grep* list files or arguments without taking other a
 
 ![image](lab3-redo4.png)
 
+Another options i found out by Chatgpt is *-n* option, that used to prefix each line of output with its line number.
 
+![image](lab3-redo5.png)
 
 *Conclusion*
 
